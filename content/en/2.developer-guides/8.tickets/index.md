@@ -1,5 +1,5 @@
 ---
-title: Support & Tickets
+title: Tickets
 description: Manage customer request lifecycles via the integrated ticket system.
 icon: i-lucide-ticket
 ---
